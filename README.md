@@ -1,7 +1,12 @@
 # Keychron-Q1-Rotary-Encoder
 Rotary Encoder support for Keychron Q1
 
-Q1 PCB supports EC11 Rotary Encoder, this firmware is meant to be used with conjuction with it. Use a 15mm encoder for optimum aesthetics and support. 
+Q1 PCB supports EC11 Rotary Encoder, discovered by [MechaBoards BD](https://www.facebook.com/groups/mechaboardsbd)'s veteran enthusiast ["Vicky" Khawar Ahmed
+](https://www.facebook.com/v.ksahmed). This firmware is meant to be used with conjuction with it. Use a 15mm encoder for optimum aesthetics and support.
+
+![image](https://raw.githubusercontent.com/hmfaysal/Keychron-Q1-Rotary-Encoder/main/images/rotary_encoder_vicky_khawar_ahmed.jpg)
+
+Download the firmware from releases and use [QMK Toolbox](https://github.com/qmk/qmk_toolbox) to flash the firmware to your keyboard.  
 
 Hold CTRL and use rotary encoder for scrolling up or down a page or document.
 Hold SHIFT and use rotary encoder to go to the previous or next browser tab.
