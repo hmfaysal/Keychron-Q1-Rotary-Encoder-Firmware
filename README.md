@@ -1,4 +1,4 @@
-# Keychron-Q1-Rotary-Encoder
+# Keychron Q1 Rotary Encoder Firmware
 Rotary Encoder support for Keychron Q1
 
 Q1 PCB supports EC11 Rotary Encoder, discovered by [MechaBoards BD](https://www.facebook.com/groups/mechaboardsbd)'s veteran enthusiast ["Vicky" Khawar Ahmed
